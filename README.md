@@ -72,7 +72,7 @@ This project demonstrates proficiency in:
 6. Exit
 Enter your choice: 1
 
-Enter Student ID: 101
+Enter Student ID: 1001
 Enter Student Name: John Doe
 Enter Student Age: 20
 Enter Student Course: Computer Science
